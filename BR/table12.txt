@@ -1,0 +1,12 @@
+Vehicle Outcome
+Pegasus 1
+Percheron 0
+AMROC 0
+Conestoga 0
+Ariane 1
+IndiaSLV3 0
+IndiaASLV 0
+IndiaPSLV 0
+Shavit 1
+Taepodong 0
+BrazilVLS 0

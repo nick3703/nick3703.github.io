@@ -1,0 +1,5 @@
+Component Successes Failures Units.tested
+1	8	2	10
+2	7	2	9
+3	3	1	4
+4	10	2	12
